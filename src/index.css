@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  /* Define the custom marquee animation */
+  --animate-marquee: marquee 25s linear infinite;
+
+  @keyframes marquee {
+    from { transform: translateX(0%); }
+    to { transform: translateX(-50%); }
+  }
+
+  /* Define custom colors or spacing if needed */
+  --color-brand-purple: #9333ea;
+  --color-brand-cyan: #22d3ee;
+}
