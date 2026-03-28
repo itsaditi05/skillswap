@@ -48,7 +48,7 @@ A global community hub where every student can talk, solve errors, and share res
 
 ### 1. Clone the Repo
 ```bash
-git clone [https://github.com/YOUR_USERNAME/skillswap.git](https://github.com/YOUR_USERNAME/skillswap.git)
+git clone [https://github.com/itsaditi05/skillswap.git](https://github.com/itsaditi05/skillswap.git)
 Tech Stack & Requirements
 Frontend: React.js, Tailwind CSS, Lucide-React Icons, Framer Motion.
 
